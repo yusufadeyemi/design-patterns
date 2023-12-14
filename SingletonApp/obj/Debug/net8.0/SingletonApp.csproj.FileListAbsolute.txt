@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\bin\Debug\net8.0\SingletonApp.exe
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\bin\Debug\net8.0\SingletonApp.deps.json
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\bin\Debug\net8.0\SingletonApp.runtimeconfig.json
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\bin\Debug\net8.0\SingletonApp.dll
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\bin\Debug\net8.0\SingletonApp.pdb
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.dll
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\refint\SingletonApp.dll
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.pdb
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\SingletonApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\DesignPatterns\SingletonApp\obj\Debug\net8.0\ref\SingletonApp.dll
